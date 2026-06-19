@@ -1,0 +1,473 @@
+﻿Region,Agency,LAWASiteID,LAWAWellName,Latitude,Longitude,Indicator,Units,State
+Auckland,Auckland Council,LAWA-101674,BP Bombay,-37.19308584,174.9822733,Nitrate nitrogen,g/m³,11.2
+Auckland,Auckland Council,LAWA-101663,Fielding Rd Sand,-37.1161675,174.962976,Nitrate nitrogen,g/m³,0.0005
+Auckland,Auckland Council,LAWA-101664,Fielding Rd Volc,-37.1161675,174.962976,Nitrate nitrogen,g/m³,0.00935
+Auckland,Auckland Council,LAWA-101666,Hickey Springs,-37.192866,174.90093,Nitrate nitrogen,g/m³,16.95
+Auckland,Auckland Council,LAWA-101665,Hillview Springs,-37.169148,174.986554,Nitrate nitrogen,g/m³,14.75
+Auckland,Auckland Council,LAWA-101661,Ostrich Farm Obs NO2,-37.16738681,174.8698183,Nitrate nitrogen,g/m³,0.0005
+Auckland,Auckland Council,LAWA-101662,Ostrich Farm Rd Deep #1,-37.1661023,174.8698334,Nitrate nitrogen,g/m³,0.0015
+Auckland,Auckland Council,LAWA-101648,Patumahoe Springs,-37.20051676,174.8476701,Nitrate nitrogen,g/m³,23
+Auckland,Auckland Council,LAWA-104129,Rifle Range Central Volcanics Shallow,-37.20293744,174.87329,Nitrate nitrogen,g/m³,10.55
+Auckland,Auckland Council,LAWA-101667,Rifle Range Rd Deep,-37.20292932,174.8735264,Nitrate nitrogen,g/m³,0.0015
+Auckland,Auckland Council,LAWA-101673,Seagrove Rd,-37.13027358,174.7561493,Nitrate nitrogen,g/m³,0.0015
+Auckland,Auckland Council,LAWA-101652,Waitakere Rd Deep,-36.78439331,174.5566526,Nitrate nitrogen,g/m³,0.0015
+Auckland,Auckland Council,LAWA-101653,Waitakere Rd Shallow,-36.78235838,174.5603545,Nitrate nitrogen,g/m³,0.0015
+Auckland,Auckland Council,LAWA-101671,Watson Ave,-36.88658944,174.7377031,Nitrate nitrogen,g/m³,3.45
+Auckland,Auckland Council,LAWA-101675,Wilcox Gunclub Road,-37.20333691,174.8506121,Nitrate nitrogen,g/m³,25
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101500,Bore 1000147 at Maketu Rd,-37.77752676,176.429447,Nitrate nitrogen,g/m³,0.0005
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101455,Bore 1001058 73m at Taylor Reserve,-37.71070862,176.3269959,Nitrate nitrogen,g/m³,0.0005
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101531,Bore 1001059 at Otamarakau Marae,-37.8290596,176.597702,Nitrate nitrogen,g/m³,0.001
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101453,Bore 100106 25m at Taylor Reserve,-37.71070862,176.3269959,Nitrate nitrogen,g/m³,0.001
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101454,Bore 100107 45m at Taylor Reserve,-37.71070862,176.3269959,Nitrate nitrogen,g/m³,0.0005
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101334,Bore 100113 at Omokoroa Rd,-37.652106,176.025348,Nitrate nitrogen,g/m³,0.0365
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101404,Bore 1001238 at Lochinver,-38.95083042,176.4006782,Nitrate nitrogen,g/m³,0.03
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101406,Bore 1001241 at Lochinver,-38.87869351,176.364642,Nitrate nitrogen,g/m³,0.002
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101407,Bore 1001249 at Matea Rd,-38.81429292,176.3970008,Nitrate nitrogen,g/m³,3.841
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101483,Bore 1001289 at Kelly Rd,-37.7792,176.409,Nitrate nitrogen,g/m³,0.0005
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101484,Bore 1001290 at Kelly Rd,-37.7792,176.409,Nitrate nitrogen,g/m³,2.508
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101441,Bore 1001293 at Rangiuru Rd,-37.88839837,176.3037118,Nitrate nitrogen,g/m³,0.095
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101340,Bore 100130 at Capamagian Dr,-37.4372,175.9427,Nitrate nitrogen,g/m³,0.007
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101498,Bore 1018 at Maketu Rd (Warm supply),-37.77943026,176.426266,Nitrate nitrogen,g/m³,0.001
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101364,Bore 10965 at Oturoa Rd,-38.03926086,176.1739044,Nitrate nitrogen,g/m³,1.079
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101415,Bore 10968 at Gee Rd,-38.13357925,176.324295,Nitrate nitrogen,g/m³,0.927
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101403,Bore 1670 at Kairua Rd,-37.70718002,176.2498932,Nitrate nitrogen,g/m³,0.169
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101540,Bore 170047 at Horomanga Rd,-38.3725,176.7896,Nitrate nitrogen,g/m³,0.0005
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101541,Bore 170048 at Horomanga Rd,-38.3725,176.7896,Nitrate nitrogen,g/m³,0.00075
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101542,Bore 170049 at Horomanga Rd,-38.3725,176.7896,Nitrate nitrogen,g/m³,0.0005
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101318,Bore 2303 at Sharp Rd,-37.57297897,175.9434967,Nitrate nitrogen,g/m³,0.0005
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101316,Bore 2328 at Lund Rd,-37.5961,175.9025,Nitrate nitrogen,g/m³,0.002
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101338,Bore 2330 at Kauri Point,-37.51438141,175.970398,Nitrate nitrogen,g/m³,0.08
+Bay of Plenty,Bay of Plenty Regional Council,EBOP-00066,Bore 2504 at Beach Rd,-37.66256185,176.1397907,Nitrate nitrogen,g/m³,0.016
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101545,Bore 2509 at Hallett Rd (CB2509),-37.99950027,176.7671051,Nitrate nitrogen,g/m³,0.199
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101480,Bore 2822 at Pongakawa School Rd,-37.8363726,176.4776902,Nitrate nitrogen,g/m³,0.0005
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101557,Bore 3036 at Otara Rd,-38.03585053,177.3168945,Nitrate nitrogen,g/m³,0.0005
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101373,Bore 3044 at Cambridge Rd,-37.70613098,176.1248016,Nitrate nitrogen,g/m³,0.002
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101554,Bore 3301 at Ohope Golf Club,-37.98703834,177.1281048,Nitrate nitrogen,g/m³,0.731
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101367,Bore 4007 at Dalbeth Rd,-38.05633108,176.1817034,Nitrate nitrogen,g/m³,0.955
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101473,Bore 410 at Coach Rd,-37.84870911,176.4237976,Nitrate nitrogen,g/m³,0.001
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101372,Bore 4364 at Cambridge Rd,-37.70631027,176.1248016,Nitrate nitrogen,g/m³,0.034
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101370,Bore 93 at James Rd,-37.67842102,176.0825043,Nitrate nitrogen,g/m³,0.119
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101472,Bore 951 at Wilson Rd South,-37.81037903,176.415802,Nitrate nitrogen,g/m³,0.0015
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101405,Piezo 1001239 at Lochinver,-38.95083042,176.4006782,Nitrate nitrogen,g/m³,1.599
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101539,Pool inlet at Braemar Springs,-37.96834724,176.7400765,Nitrate nitrogen,g/m³,0.7965
+Bay of Plenty,Bay of Plenty Regional Council,EBOP-00069,Rangitaiki at Kokomoka (Bore 1001247),-38.81928635,176.4880676,Nitrate nitrogen,g/m³,1.099
+Bay of Plenty,Bay of Plenty Regional Council,LAWA-101345,Waitapu Spring at Paradise Valley Rd,-38.10675812,176.1459961,Nitrate nitrogen,g/m³,0.629
+Gisborne,Gisborne District Council,LAWA-103742,Chrisp 384 Bushmere Rd GPD190,-38.62889832,177.9283817,Nitrate nitrogen,g/m³,0.0061
+Gisborne,Gisborne District Council,LAWA-103913,GAR016 Te Araroa Airstip Bore,-37.6298186,178.3466976,Nitrate nitrogen,g/m³,0.001
+Gisborne,Gisborne District Council,LAWA-103914,GAR017- K Bridge,-37.6252769,178.3336931,Nitrate nitrogen,g/m³,0.001
+Gisborne,Gisborne District Council,LAWA-103915,GAR018 - Tokata Road,-37.62625123,178.325103,Nitrate nitrogen,g/m³,0.095
+Gisborne,Gisborne District Council,LAWA-103916,GGR045 - 162 Warf Road,-37.57950359,178.2867823,Nitrate nitrogen,g/m³,0.215
+Gisborne,Gisborne District Council,LAWA-103917,GGR046,-37.57728629,178.2858332,Nitrate nitrogen,g/m³,0.001
+Gisborne,Gisborne District Council,LAWA-103918,GGR047 - Matakaoa Vocanics,-37.56388784,178.3072675,Nitrate nitrogen,g/m³,0.31
+Gisborne,Gisborne District Council,LAWA-101187,GPA004,-38.65988224,178.0079125,Nitrate nitrogen,g/m³,0.139
+Gisborne,Gisborne District Council,LAWA-101263,GPA162,-38.67660831,178.0779883,Nitrate nitrogen,g/m³,0.037
+Gisborne,Gisborne District Council,LAWA-101220,GPB039,-38.64403758,177.9903997,Nitrate nitrogen,g/m³,0.0025
+Gisborne,Gisborne District Council,LAWA-101238,GPB049,-38.64616479,177.9692488,Nitrate nitrogen,g/m³,0.007
+Gisborne,Gisborne District Council,LAWA-101200,GPB083,-38.63029361,177.9911089,Nitrate nitrogen,g/m³,0.001
+Gisborne,Gisborne District Council,LAWA-101179,GPB099,-38.64289897,177.9820655,Nitrate nitrogen,g/m³,0.001
+Gisborne,Gisborne District Council,LAWA-101180,GPB100,-38.64290795,177.9820661,Nitrate nitrogen,g/m³,0.0065
+Gisborne,Gisborne District Council,GDC-00035,GPB102,-38.64293537,177.9820565,Nitrate nitrogen,g/m³,0.0015
+Gisborne,Gisborne District Council,LAWA-101183,GPB111,-38.64715951,177.9896179,Nitrate nitrogen,g/m³,0.002
+Gisborne,Gisborne District Council,LAWA-101222,GPB125,-38.61889392,177.9666273,Nitrate nitrogen,g/m³,0.0023
+Gisborne,Gisborne District Council,LAWA-101221,GPB126,-38.61889392,177.9666273,Nitrate nitrogen,g/m³,0.001
+Gisborne,Gisborne District Council,LAWA-101206,GPB128,-38.63402246,177.9733676,Nitrate nitrogen,g/m³,0.002
+Gisborne,Gisborne District Council,LAWA-101205,GPB129,-38.63402246,177.9733676,Nitrate nitrogen,g/m³,0.001
+Gisborne,Gisborne District Council,LAWA-101182,GPB135,-38.64287955,177.9820986,Nitrate nitrogen,g/m³,0.005
+Gisborne,Gisborne District Council,LAWA-101241,GPC003,-38.65332985,177.9762788,Nitrate nitrogen,g/m³,0.005
+Gisborne,Gisborne District Council,LAWA-101248,GPC026,-38.67471289,177.9609005,Nitrate nitrogen,g/m³,0.0037
+Gisborne,Gisborne District Council,GDC-00034,GPC028,-38.67290052,177.9467504,Nitrate nitrogen,g/m³,0.0031
+Gisborne,Gisborne District Council,LAWA-101169,GPC030,-38.66985808,177.9658021,Nitrate nitrogen,g/m³,0.4785
+Gisborne,Gisborne District Council,LAWA-101168,GPC031,-38.66733965,177.9610796,Nitrate nitrogen,g/m³,1.46
+Gisborne,Gisborne District Council,LAWA-101195,GPC062,-38.68650765,177.9456561,Nitrate nitrogen,g/m³,0.0047
+Gisborne,Gisborne District Council,LAWA-101246,GPC078,-38.64944702,177.9697746,Nitrate nitrogen,g/m³,0.0029
+Gisborne,Gisborne District Council,LAWA-101234,GPC112,-38.65503087,177.9612848,Nitrate nitrogen,g/m³,0.00255
+Gisborne,Gisborne District Council,LAWA-101210,GPD039,-38.6491271,177.9450883,Nitrate nitrogen,g/m³,0.0025
+Gisborne,Gisborne District Council,LAWA-101207,GPD111,-38.64519266,177.9440134,Nitrate nitrogen,g/m³,0.00465
+Gisborne,Gisborne District Council,LAWA-101242,GPD115,-38.62430994,177.9161177,Nitrate nitrogen,g/m³,0.00325
+Gisborne,Gisborne District Council,LAWA-101233,GPD116,-38.62521543,177.9366921,Nitrate nitrogen,g/m³,0.001
+Gisborne,Gisborne District Council,LAWA-101228,GPD129,-38.65202175,177.959205,Nitrate nitrogen,g/m³,0.0038
+Gisborne,Gisborne District Council,LAWA-101227,GPD130,-38.65202175,177.959205,Nitrate nitrogen,g/m³,0.003
+Gisborne,Gisborne District Council,LAWA-101172,GPD132,-38.63656367,177.9411001,Nitrate nitrogen,g/m³,0.014
+Gisborne,Gisborne District Council,LAWA-101232,GPD146,-38.64100951,177.9339204,Nitrate nitrogen,g/m³,0.00385
+Gisborne,Gisborne District Council,LAWA-101225,GPE006,-38.59387048,177.9271044,Nitrate nitrogen,g/m³,0.00185
+Gisborne,Gisborne District Council,LAWA-101212,GPE040,-38.601087,177.9159061,Nitrate nitrogen,g/m³,0.002
+Gisborne,Gisborne District Council,LAWA-101214,GPE059,-38.60105398,177.915835,Nitrate nitrogen,g/m³,0.002
+Gisborne,Gisborne District Council,LAWA-101188,GPF090,-38.49067128,177.9047902,Nitrate nitrogen,g/m³,0.0047
+Gisborne,Gisborne District Council,LAWA-101230,GPF095,-38.58631,177.9474662,Nitrate nitrogen,g/m³,0.001
+Gisborne,Gisborne District Council,LAWA-101193,GPF117,-38.61459548,177.9467736,Nitrate nitrogen,g/m³,0.001
+Gisborne,Gisborne District Council,LAWA-101175,GPG058,-38.56607786,177.9188818,Nitrate nitrogen,g/m³,0.001
+Gisborne,Gisborne District Council,LAWA-101176,GPG059,-38.56608027,177.9188246,Nitrate nitrogen,g/m³,0.0015
+Gisborne,Gisborne District Council,LAWA-101192,GPG077,-38.53302271,177.9113742,Nitrate nitrogen,g/m³,3.66
+Gisborne,Gisborne District Council,LAWA-101178,GPG088,-38.56605443,177.9192243,Nitrate nitrogen,g/m³,0.0065
+Gisborne,Gisborne District Council,LAWA-101257,GPG111,-38.57851684,177.9345873,Nitrate nitrogen,g/m³,0.001
+Gisborne,Gisborne District Council,LAWA-101219,GPH022,-38.52342719,177.8962777,Nitrate nitrogen,g/m³,0.001
+Gisborne,Gisborne District Council,LAWA-101217,GPH028,-38.51298263,177.9011958,Nitrate nitrogen,g/m³,0.001
+Gisborne,Gisborne District Council,LAWA-101173,GPI026,-38.60406615,177.904164,Nitrate nitrogen,g/m³,0.00335
+Gisborne,Gisborne District Council,LAWA-101190,GPI032,-38.61759956,177.9065339,Nitrate nitrogen,g/m³,0.00485
+Gisborne,Gisborne District Council,LAWA-101224,GPJ005,-38.63341518,177.8686049,Nitrate nitrogen,g/m³,0.003
+Gisborne,Gisborne District Council,LAWA-101250,GPJ033,-38.63383278,177.8928565,Nitrate nitrogen,g/m³,4.08
+Gisborne,Gisborne District Council,LAWA-101196,GPJ040,-38.63410924,177.9107155,Nitrate nitrogen,g/m³,0.0024
+Gisborne,Gisborne District Council,LAWA-101243,GPJ080,-38.63439099,177.8397289,Nitrate nitrogen,g/m³,0.0015
+Gisborne,Gisborne District Council,LAWA-101216,GPJ081,-38.63271239,177.8918732,Nitrate nitrogen,g/m³,19
+Gisborne,Gisborne District Council,LAWA-101259,GPO004,-38.48396968,177.8816173,Nitrate nitrogen,g/m³,0.001
+Gisborne,Gisborne District Council,LAWA-101264,GPO028,-38.48393881,177.9075061,Nitrate nitrogen,g/m³,1.9
+Gisborne,Gisborne District Council,LAWA-103519,GRB007,-37.88488817,178.3258469,Nitrate nitrogen,g/m³,1.2
+Gisborne,Gisborne District Council,LAWA-103516,GTA044,-38.36949386,178.3001726,Nitrate nitrogen,g/m³,0.0625
+Gisborne,Gisborne District Council,LAWA-103517,GTA047,-38.38438635,178.3116601,Nitrate nitrogen,g/m³,0.001
+Gisborne,Gisborne District Council,LAWA-103518,GTC004,-38.33577119,178.2713939,Nitrate nitrogen,g/m³,0.0057
+Gisborne,Gisborne District Council,LAWA-103922,Pututu Road Bore GRC016,-37.81290877,178.4057835,Nitrate nitrogen,g/m³,1.72
+Gisborne,Gisborne District Council,LAWA-103920,Racecourse Rd Monitoring Bore GRB075,-37.88369572,178.319581,Nitrate nitrogen,g/m³,0.754
+Gisborne,Gisborne District Council,LAWA-103923,Tikitiki Beach Road Bore GRC017,-37.76664796,178.4682852,Nitrate nitrogen,g/m³,0.001
+Gisborne,Gisborne District Council,LAWA-103919,Tinatoka Road Bore GRB074,-37.84750243,178.3388064,Nitrate nitrogen,g/m³,0.075
+Gisborne,Gisborne District Council,LAWA-103921,Waiomataini Old School Bore GRC015,-37.81269718,178.4058815,Nitrate nitrogen,g/m³,0.723
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101860,20,-39.52290783,176.8623416,Nitrate nitrogen,g/m³,0.0365
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-102849,1313,-39.65201696,176.8266508,Nitrate nitrogen,g/m³,0.134
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101864,1714,-39.60427703,176.7614285,Nitrate nitrogen,g/m³,0.88
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101863,1719,-39.63525226,176.7647411,Nitrate nitrogen,g/m³,2.65
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100579,1727,-39.54355357,176.9194137,Nitrate nitrogen,g/m³,0.017
+Hawke's Bay,Hawke's Bay Regional Council,HBRC-00147,1756,-39.00254261,177.3956921,Nitrate nitrogen,g/m³,0.01
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100590,1765,-40.0039479,176.2793882,Nitrate nitrogen,g/m³,0.049
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101857,1772,-39.65192089,176.8271003,Nitrate nitrogen,g/m³,5.7
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100594,1780,-39.65192089,176.8271003,Nitrate nitrogen,g/m³,2.7
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100596,1810,-39.9234428,176.5257767,Nitrate nitrogen,g/m³,0.5
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100597,1812,-39.973577,176.4913574,Nitrate nitrogen,g/m³,0.1695
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100600,1816,-40.02367158,176.4325146,Nitrate nitrogen,g/m³,0.0705
+Hawke's Bay,Hawke's Bay Regional Council,HBRC-00159,1835,-39.88249694,176.6615973,Nitrate nitrogen,g/m³,0.001
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100605,1838,-39.81700258,176.6906645,Nitrate nitrogen,g/m³,0.0555
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100606,1839,-40.00499042,176.3608324,Nitrate nitrogen,g/m³,0.0105
+Hawke's Bay,Hawke's Bay Regional Council,HBRC-00160,1846,-40.01155076,176.3965417,Nitrate nitrogen,g/m³,0.086
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100610,1856,-39.56811297,176.90266,Nitrate nitrogen,g/m³,0.03
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100611,1857,-39.56811297,176.90266,Nitrate nitrogen,g/m³,0.22
+Hawke's Bay,Hawke's Bay Regional Council,HBRC-00165,1858,-39.56811297,176.90266,Nitrate nitrogen,g/m³,0.104
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100615,1864,-39.64133436,176.7769438,Nitrate nitrogen,g/m³,0.187
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100617,1871,-39.56811297,176.90266,Nitrate nitrogen,g/m³,0.029
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100624,3457,-39.6635835,176.7783047,Nitrate nitrogen,g/m³,6.3
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100625,3458,-39.6635835,176.7783047,Nitrate nitrogen,g/m³,6.6
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100626,3459,-39.6635835,176.7783047,Nitrate nitrogen,g/m³,0.061
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100627,3468,-39.48452704,176.810761,Nitrate nitrogen,g/m³,1.1
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101850,3475,-39.66786254,176.9269527,Nitrate nitrogen,g/m³,0.0405
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101853,3476,-39.89806183,176.4210789,Nitrate nitrogen,g/m³,5.55
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101855,3477,-39.88044712,176.4908726,Nitrate nitrogen,g/m³,2.1
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101865,3480,-39.65192089,176.8271003,Nitrate nitrogen,g/m³,0.035
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101851,3494,-39.88134345,176.4334509,Nitrate nitrogen,g/m³,1.48
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100629,3508,-39.51385493,176.776845,Nitrate nitrogen,g/m³,0.2
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100637,3823,-39.97737971,176.3591205,Nitrate nitrogen,g/m³,0.041
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100638,3824,-39.97741707,176.3590755,Nitrate nitrogen,g/m³,6.5
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100640,5237,-39.9145125,176.3745801,Nitrate nitrogen,g/m³,0.056
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100641,5238,-39.96009681,176.3995559,Nitrate nitrogen,g/m³,8.65
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100642,5239,-39.6235426,176.8879036,Nitrate nitrogen,g/m³,0.1515
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100643,5240,-39.62355317,176.8878575,Nitrate nitrogen,g/m³,0.38
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-100644,5241,-39.88865007,176.4229597,Nitrate nitrogen,g/m³,7.35
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101812,5334,-39.59259456,176.7825804,Nitrate nitrogen,g/m³,0.21
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101813,5335,-39.59261447,176.7825233,Nitrate nitrogen,g/m³,0.21
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101814,5336,-39.59260547,176.7825228,Nitrate nitrogen,g/m³,0.25
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101803,5339,-39.96538641,176.6439916,Nitrate nitrogen,g/m³,0.052
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101875,5601,-39.85006401,176.4516327,Nitrate nitrogen,g/m³,8.2
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101816,5602,-39.85033616,176.4524767,Nitrate nitrogen,g/m³,1.445
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101810,5604,-40.0215717,176.2646457,Nitrate nitrogen,g/m³,0.1885
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101809,5606,-39.98120862,176.3265516,Nitrate nitrogen,g/m³,4.9
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101817,5607,-40.00816695,176.3237064,Nitrate nitrogen,g/m³,0.0475
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101833,5608,-40.02365184,176.4325722,Nitrate nitrogen,g/m³,0.049
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101829,5609,-39.96502871,176.4861177,Nitrate nitrogen,g/m³,0.41
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101818,5611,-39.80969001,176.4741763,Nitrate nitrogen,g/m³,3.4
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101820,5612,-39.90250798,176.5147379,Nitrate nitrogen,g/m³,0.115
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101819,5613,-39.90251698,176.5147383,Nitrate nitrogen,g/m³,1.085
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101821,5614,-39.88347328,176.5123091,Nitrate nitrogen,g/m³,4.25
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101823,5616,-39.93048977,176.4414233,Nitrate nitrogen,g/m³,4.75
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101824,5617,-39.93048977,176.4414233,Nitrate nitrogen,g/m³,4.05
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101825,5618,-39.99225632,176.4489912,Nitrate nitrogen,g/m³,1.41
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101826,5619,-39.99224767,176.4489791,Nitrate nitrogen,g/m³,0.001
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101830,5620,-39.82507362,176.3607005,Nitrate nitrogen,g/m³,6.25
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101832,5621,-40.03713554,176.2700818,Nitrate nitrogen,g/m³,0.475
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101831,5622,-40.03226935,176.4100492,Nitrate nitrogen,g/m³,9.1
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-103968,5637,-38.90869624,176.2724766,Nitrate nitrogen,g/m³,2.8
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101869,5638,-39.03186359,176.285979,Nitrate nitrogen,g/m³,1.39
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101870,5639,-38.9728641,176.2948427,Nitrate nitrogen,g/m³,1.29
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-102291,5641,-38.92766382,176.2937982,Nitrate nitrogen,g/m³,5.2
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-102292,5642,-38.94107939,176.2844017,Nitrate nitrogen,g/m³,6.4
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101873,5646,-38.88851553,176.2801448,Nitrate nitrogen,g/m³,0.36
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101874,5647,-39.01381292,176.2700447,Nitrate nitrogen,g/m³,0.053
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101843,5655,-39.54805679,176.8568202,Nitrate nitrogen,g/m³,0.15
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101862,5658,-39.90194224,176.4574581,Nitrate nitrogen,g/m³,7
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101827,6675,-39.94603461,176.4906872,Nitrate nitrogen,g/m³,0.0565
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101828,6676,-39.94603461,176.4906872,Nitrate nitrogen,g/m³,8.6
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101841,6678,-39.94409691,176.423057,Nitrate nitrogen,g/m³,18.2
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101840,6679,-40.00490976,176.3608167,Nitrate nitrogen,g/m³,0.001
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101835,6698,-39.63166931,176.8493978,Nitrate nitrogen,g/m³,0.32
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101834,6699,-39.64712616,176.9012461,Nitrate nitrogen,g/m³,0.0215
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101836,6958,-39.60499286,176.8005676,Nitrate nitrogen,g/m³,0.485
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101837,6960,-39.69335644,176.8104195,Nitrate nitrogen,g/m³,0.029
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101838,6987,-39.62497324,176.7374136,Nitrate nitrogen,g/m³,0.285
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-101878,6988,-39.49577691,176.8381919,Nitrate nitrogen,g/m³,5.4
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-102402,7251,-39.81960804,176.4531015,Nitrate nitrogen,g/m³,0.67
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-102403,7252,-39.81957239,176.453088,Nitrate nitrogen,g/m³,0.001
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-102404,7497,-39.05707897,177.8351611,Nitrate nitrogen,g/m³,0.001
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-102721,7964,-39.60099974,176.9447861,Nitrate nitrogen,g/m³,0.031
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-103566,8087,-39.88343621,176.5123423,Nitrate nitrogen,g/m³,1.565
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-103563,8088,-39.80980913,176.4741122,Nitrate nitrogen,g/m³,0.0185
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-103564,8092,-39.85715856,176.4872169,Nitrate nitrogen,g/m³,0.39
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-103565,8093,-39.85715892,176.4872052,Nitrate nitrogen,g/m³,0.405
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-103567,8095,-39.94408756,176.4230683,Nitrate nitrogen,g/m³,0.0095
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-103568,8096,-39.56357646,176.7641116,Nitrate nitrogen,g/m³,0.007
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-104023,8567,-39.64778499,176.862963,Nitrate nitrogen,g/m³,3.8
+Hawke's Bay,Hawke's Bay Regional Council,LAWA-104022,8568,-39.50264102,176.9175465,Nitrate nitrogen,g/m³,0.2455
+Manawatū-Whanganui,Horizons Regional Council,HRC-00133,209005,-39.86924453,174.9194433,Nitrate nitrogen,g/m³,0.395
+Manawatū-Whanganui,Horizons Regional Council,HRC-00135,301019,-40.26828974,176.0153388,Nitrate nitrogen,g/m³,0.003
+Manawatū-Whanganui,Horizons Regional Council,HRC-00141,312001,-40.71070577,175.2150468,Nitrate nitrogen,g/m³,0.001
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101295,312020,-40.71758922,175.2164116,Nitrate nitrogen,g/m³,0.001
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101296,315027,-40.70802031,175.2080444,Nitrate nitrogen,g/m³,0.001
+Manawatū-Whanganui,Horizons Regional Council,HRC-00154,316037,-40.60436384,175.3015869,Nitrate nitrogen,g/m³,9.78
+Manawatū-Whanganui,Horizons Regional Council,LAWA-102712,319004,-40.67342104,175.2383427,Nitrate nitrogen,g/m³,0.218
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101297,324067,-40.65195627,175.1832135,Nitrate nitrogen,g/m³,0.003
+Manawatū-Whanganui,Horizons Regional Council,LAWA-102713,332039,-40.53950447,175.4015574,Nitrate nitrogen,g/m³,0.001
+Manawatū-Whanganui,Horizons Regional Council,LAWA-102714,332065,-40.54546094,175.418305,Nitrate nitrogen,g/m³,0.001
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101299,334091,-40.58816928,175.3572122,Nitrate nitrogen,g/m³,0.001
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101300,336114,-40.56603234,175.3221262,Nitrate nitrogen,g/m³,0.003
+Manawatū-Whanganui,Horizons Regional Council,HRC-00240,338005,-40.55738123,175.3458171,Nitrate nitrogen,g/m³,0.103
+Manawatū-Whanganui,Horizons Regional Council,HRC-00244,339001,-40.58620566,175.2756047,Nitrate nitrogen,g/m³,4.015
+Manawatū-Whanganui,Horizons Regional Council,HRC-00246,342051,-40.53024622,175.2807898,Nitrate nitrogen,g/m³,0.001
+Manawatū-Whanganui,Horizons Regional Council,HRC-00263,346031,-40.4123413,175.8791335,Nitrate nitrogen,g/m³,0.001
+Manawatū-Whanganui,Horizons Regional Council,LAWA-102715,347056,-40.40854985,175.3733072,Nitrate nitrogen,g/m³,0.001
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101302,348134,-40.47800389,175.2801943,Nitrate nitrogen,g/m³,5.235
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101303,352099,-40.35761005,175.8697313,Nitrate nitrogen,g/m³,15.2
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101304,352312,-40.34179285,175.6653362,Nitrate nitrogen,g/m³,0.001
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101305,353015,-40.39456651,175.5224734,Nitrate nitrogen,g/m³,10.6
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101306,353121,-40.22461613,175.5067207,Nitrate nitrogen,g/m³,3.88
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101307,353251,-40.29800188,175.3599997,Nitrate nitrogen,g/m³,16.8
+Manawatū-Whanganui,Horizons Regional Council,HRC-00277,353291,-40.12794157,175.6780475,Nitrate nitrogen,g/m³,9.11
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101308,357109,-40.19341856,175.2288914,Nitrate nitrogen,g/m³,4.03
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101309,362001,-40.13317015,175.2489387,Nitrate nitrogen,g/m³,6.795
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101310,362921,-40.06832019,175.2206357,Nitrate nitrogen,g/m³,0.006
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101312,363112,-40.06992826,175.1765856,Nitrate nitrogen,g/m³,2.525
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101313,372003,-40.07054072,175.1515138,Nitrate nitrogen,g/m³,11.7
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101314,372034,-39.91053122,174.981456,Nitrate nitrogen,g/m³,14.6
+Manawatū-Whanganui,Horizons Regional Council,LAWA-101315,372136,-39.107863,175.070429,Nitrate nitrogen,g/m³,4.17
+Manawatū-Whanganui,Horizons Regional Council,LAWA-102716,402001,-39.477497,175.577237,Nitrate nitrogen,g/m³,0.001
+Manawatū-Whanganui,Horizons Regional Council,LAWA-102717,421013,-40.476456,175.280346,Nitrate nitrogen,g/m³,0.001
+Manawatū-Whanganui,Horizons Regional Council,LAWA-102718,430008,-40.453271,176.516706,Nitrate nitrogen,g/m³,0.247
+Manawatū-Whanganui,Horizons Regional Council,HRC-00301,698011,-40.179387,175.989143,Nitrate nitrogen,g/m³,0.00075
+Northland,Northland Regional Council,LAWA-104043,106724,-35.16146331,173.1621243,Nitrate nitrogen,g/m³,0.0015
+Northland,Northland Regional Council,LAWA-104048,317270,-35.9501493,173.7568764,Nitrate nitrogen,g/m³,0.058
+Northland,Northland Regional Council,LAWA-104044,323844,-35.04018791,173.1701732,Nitrate nitrogen,g/m³,0.001
+Northland,Northland Regional Council,LAWA-104045,324578,-34.81979123,173.1248752,Nitrate nitrogen,g/m³,0.001
+Northland,Northland Regional Council,LAWA-101881,Aupouri GW at 419 Paparore Rd (FN Farms NGMP site),-34.9856121,173.206623,Nitrate nitrogen,g/m³,0.0015
+Northland,Northland Regional Council,LAWA-102245,Aupouri GW at 87 Hukatere Rd new bore (NGMP site),-34.84844689,173.1183882,Nitrate nitrogen,g/m³,0.0015
+Northland,Northland Regional Council,LAWA-101882,Aupouri GW at Far North Rd (Awanui Farms),-35.0289219,173.2545176,Nitrate nitrogen,g/m³,0.001
+Northland,Northland Regional Council,LAWA-101883,Bland Bay GW at Whangaruru Nth Rd (Camp New Bore),-35.34619192,174.3534727,Nitrate nitrogen,g/m³,10.9
+Northland,Northland Regional Council,LAWA-101885,Coopers Cable GW at 154 SH10 (Youth Camp),-34.99259951,173.5117779,Nitrate nitrogen,g/m³,0.001
+Northland,Northland Regional Council,LAWA-101886,Coopers Cable GW at 422 SH10 (Croquet Club),-34.99063194,173.479069,Nitrate nitrogen,g/m³,0.001
+Northland,Northland Regional Council,LAWA-101887,Glenbervie GW at 225 Ngunguru Rd (Green NGMP site),-35.67110914,174.3507277,Nitrate nitrogen,g/m³,0.36
+Northland,Northland Regional Council,LAWA-101888,Glenbervie GW at 294 Ngunguru Rd,-35.66759681,174.3576068,Nitrate nitrogen,g/m³,1.25
+Northland,Northland Regional Council,LAWA-101890,Kaikohe GW at 75 Thorpe Rd (Nursery NGMP site),-35.42180973,173.7990912,Nitrate nitrogen,g/m³,3.15
+Northland,Northland Regional Council,LAWA-101912,Kerikeri GW at 10 Pungaere Rd,-35.20200744,173.9117731,Nitrate nitrogen,g/m³,0.0618
+Northland,Northland Regional Council,LAWA-104046,Mangawhai GW at 41 Black Swamp Rd,-36.13000244,174.5842438,Nitrate nitrogen,g/m³,0.007
+Northland,Northland Regional Council,LAWA-101893,Mangawhai Heads GW at Golf Club (SOE Bore),-36.09535332,174.5853473,Nitrate nitrogen,g/m³,1.03
+Northland,Northland Regional Council,LAWA-101892,Mangawhai Heads GW at Moir Point Rd (Hideaway Camp),-36.11568023,174.5854448,Nitrate nitrogen,g/m³,0.001
+Northland,Northland Regional Council,LAWA-101894,Matapouri GW at 15 Te Wairoa Street,-35.56595233,174.5071895,Nitrate nitrogen,g/m³,1.7
+Northland,Northland Regional Council,LAWA-101895,Matarau GW at 1342 Pipiwai Rd,-35.65666139,174.1665989,Nitrate nitrogen,g/m³,3.7
+Northland,Northland Regional Council,LAWA-104047,Maungakaramea GW at 51 Tangihua Rd,-35.84677048,174.1991973,Nitrate nitrogen,g/m³,6.3
+Northland,Northland Regional Council,LAWA-101897,Maunu East GW at 507 SH14,-35.74467743,174.2677892,Nitrate nitrogen,g/m³,3.345
+Northland,Northland Regional Council,LAWA-101898,Ngunguru GW at 1919 Ngunguru Rd,-35.63329143,174.5005238,Nitrate nitrogen,g/m³,0.0054
+Northland,Northland Regional Council,LAWA-101899,Oakura Bay GW at 3 Te Kapua Street,-35.39027908,174.3439034,Nitrate nitrogen,g/m³,3.4
+Northland,Northland Regional Council,LAWA-101900,Pataua North GW at WDC Public Toilets,-35.71255218,174.5222928,Nitrate nitrogen,g/m³,8.275
+Northland,Northland Regional Council,LAWA-101901,Pataua South GW at WDC Public Toilets,-35.71591431,174.5202011,Nitrate nitrogen,g/m³,3.95
+Northland,Northland Regional Council,LAWA-101902,Ruawai GW at Westlake St (KDC Bore 3),-36.13864033,174.0224953,Nitrate nitrogen,g/m³,0.001
+Northland,Northland Regional Council,LAWA-101903,Russell GW at 47 The Strand,-35.26023855,174.1209409,Nitrate nitrogen,g/m³,0.014
+Northland,Northland Regional Council,LAWA-101904,Sandy Bay GW at WDC Public Toilets,-35.55663296,174.4741595,Nitrate nitrogen,g/m³,2.1
+Northland,Northland Regional Council,LAWA-101905,Taiharuru Bay GW at WDC Public Toilets,-35.73010791,174.5517055,Nitrate nitrogen,g/m³,0.6805
+Northland,Northland Regional Council,LAWA-101906,Taipa GW at Mamaru Rd (High School),-34.99465545,173.4646939,Nitrate nitrogen,g/m³,3.125
+Northland,Northland Regional Council,LAWA-101907,Tara GW at 551 Tara Rd (Orchard NGMP site),-36.10589504,174.51685,Nitrate nitrogen,g/m³,2.4
+Northland,Northland Regional Council,LAWA-101908,Taupo Bay GW at 53 Marlin Drive,-34.99538683,173.7119627,Nitrate nitrogen,g/m³,2.06
+Northland,Northland Regional Council,LAWA-101909,Te Ngaere Bay GW at 1779 Wainui Rd,-35.02161143,173.8680806,Nitrate nitrogen,g/m³,3.07
+Northland,Northland Regional Council,LAWA-101911,Tutukaka GW at Matapouri Rd (NGMP site),-35.60933158,174.5239555,Nitrate nitrogen,g/m³,1.1
+Northland,Northland Regional Council,LAWA-101914,Whananaki North GW at WDC Public Toilets,-35.50841609,174.4638833,Nitrate nitrogen,g/m³,0.0028
+Northland,Northland Regional Council,LAWA-101915,Whangaumu Bay GW at WDC Public Toilets,-35.63567671,174.5316228,Nitrate nitrogen,g/m³,0.262
+Taranaki,Taranaki Regional Council,TRC-00029,GND0213,-39.00308377,174.28407,Nitrate nitrogen,g/m³,0.9
+Taranaki,Taranaki Regional Council,LAWA-101103,GND0430,-39.52921622,174.324134,Nitrate nitrogen,g/m³,0.0015
+Taranaki,Taranaki Regional Council,TRC-00013,GND0508,-39.11535709,174.0875509,Nitrate nitrogen,g/m³,0.28
+Taranaki,Taranaki Regional Council,LAWA-101105,GND0514,-38.98198908,174.4319475,Nitrate nitrogen,g/m³,6.25
+Taranaki,Taranaki Regional Council,LAWA-101106,GND0563,-39.31547599,174.3807023,Nitrate nitrogen,g/m³,0.00575
+Taranaki,Taranaki Regional Council,LAWA-101107,GND0636,-39.47028155,174.1340006,Nitrate nitrogen,g/m³,6.25
+Taranaki,Taranaki Regional Council,LAWA-101108,GND0827,-39.58140293,174.1829442,Nitrate nitrogen,g/m³,3.1
+Taranaki,Taranaki Regional Council,LAWA-101109,GND0829,-39.76131914,174.5053007,Nitrate nitrogen,g/m³,9.7
+Taranaki,Taranaki Regional Council,LAWA-101110,GND0834,-39.58453851,174.2425002,Nitrate nitrogen,g/m³,2.1
+Taranaki,Taranaki Regional Council,LAWA-101111,GND0866,-39.60278027,174.4539685,Nitrate nitrogen,g/m³,3.2
+Taranaki,Taranaki Regional Council,LAWA-101112,GND1075,-39.33446682,174.317215,Nitrate nitrogen,g/m³,0.545
+Taranaki,Taranaki Regional Council,LAWA-101114,GND1091,-39.06318829,174.2405785,Nitrate nitrogen,g/m³,2.3
+Taranaki,Taranaki Regional Council,LAWA-101115,GND1095,-39.24541247,173.8499235,Nitrate nitrogen,g/m³,2.7
+Taranaki,Taranaki Regional Council,LAWA-101117,GND1101,-39.30725274,173.7641923,Nitrate nitrogen,g/m³,9.2
+Taranaki,Taranaki Regional Council,LAWA-101118,GND1105,-39.48147918,174.2075849,Nitrate nitrogen,g/m³,13.15
+Taranaki,Taranaki Regional Council,LAWA-101119,GND1112,-39.55186922,174.1889834,Nitrate nitrogen,g/m³,22.5
+Taranaki,Taranaki Regional Council,LAWA-101120,GND1194,-39.66192828,174.4512091,Nitrate nitrogen,g/m³,1.09
+Taranaki,Taranaki Regional Council,LAWA-101121,GND1196,-39.43264013,174.2696698,Nitrate nitrogen,g/m³,2.5
+Taranaki,Taranaki Regional Council,LAWA-101122,GND1718,-39.01718878,174.3982253,Nitrate nitrogen,g/m³,1.29
+Taranaki,Taranaki Regional Council,LAWA-101123,GND2098,-39.11708104,173.9478925,Nitrate nitrogen,g/m³,1.58
+Taranaki,Taranaki Regional Council,LAWA-101125,GND2114,-39.18913741,173.8710023,Nitrate nitrogen,g/m³,0.003
+Taranaki,Taranaki Regional Council,LAWA-101126,GND2166,-39.27826934,174.182014,Nitrate nitrogen,g/m³,0.745
+Taranaki,Taranaki Regional Council,LAWA-101127,GND2197,-39.74076572,174.4589303,Nitrate nitrogen,g/m³,0.0015
+Taranaki,Taranaki Regional Council,LAWA-101128,GND2213,-39.06619804,174.156403,Nitrate nitrogen,g/m³,1.62
+Taranaki,Taranaki Regional Council,LAWA-101129,GND2242,-39.76334818,174.623452,Nitrate nitrogen,g/m³,0.0015
+Taranaki,Taranaki Regional Council,LAWA-101132,GND2484,-39.13609399,174.1289325,Nitrate nitrogen,g/m³,0.1115
+Taranaki,Taranaki Regional Council,LAWA-101134,GND2513,-39.15856473,174.3641347,Nitrate nitrogen,g/m³,0.003
+Taranaki,Taranaki Regional Council,LAWA-101135,GND3006,-39.31513029,173.8894751,Nitrate nitrogen,g/m³,2.8
+Taranaki,Taranaki Regional Council,LAWA-102250,GND3011,-39.54414658,173.9880197,Nitrate nitrogen,g/m³,0.01
+Taranaki,Taranaki Regional Council,LAWA-102251,GND3012,-39.4314853,173.8556308,Nitrate nitrogen,g/m³,0.008
+Taranaki,Taranaki Regional Council,LAWA-102252,GND3014,-39.40801083,174.0624531,Nitrate nitrogen,g/m³,2.8
+Taranaki,Taranaki Regional Council,LAWA-102429,GND3027,-39.16788496,174.2388045,Nitrate nitrogen,g/m³,0.31
+Waikato,Waikato Regional Council,LAWA-101680,Bore (Coromandel) at Awapuketea Farming Company Limited,-37.06179405,175.7960691,Nitrate nitrogen,g/m³,1.91
+Waikato,Waikato Regional Council,LAWA-101677,Bore (Coromandel) at Carter D,-36.83975435,175.7020535,Nitrate nitrogen,g/m³,3.5
+Waikato,Waikato Regional Council,LAWA-101676,Bore (Coromandel) at Cooks Beach Fire Station,-36.83833266,175.7424665,Nitrate nitrogen,g/m³,0.62
+Waikato,Waikato Regional Council,LAWA-101679,Bore (Coromandel) at Garland R,-37.04290185,175.5213868,Nitrate nitrogen,g/m³,0.57
+Waikato,Waikato Regional Council,LAWA-101678,Bore (Coromandel) at Hahei Holidays Tanks (Obs8),-36.84202241,175.8082563,Nitrate nitrogen,g/m³,0.05
+Waikato,Waikato Regional Council,LAWA-101681,Bore (Coromandel) at Tairua Country Club,-36.99880177,175.8488107,Nitrate nitrogen,g/m³,0.65
+Waikato,Waikato Regional Council,LAWA-101687,Bore (Franklin) at Coles Paul & Linda (ex Handcock),-37.32575775,174.9837182,Nitrate nitrogen,g/m³,25
+Waikato,Waikato Regional Council,LAWA-101691,Bore (Franklin) at Cooper & Lang Parts (McKinnon),-37.35779914,175.0023098,Nitrate nitrogen,g/m³,6.8
+Waikato,Waikato Regional Council,LAWA-101685,Bore (Franklin) at Doidge EJF,-37.33055262,174.9053143,Nitrate nitrogen,g/m³,4.6
+Waikato,Waikato Regional Council,LAWA-101686,Bore (Franklin) at Graham F,-37.26760537,174.7435581,Nitrate nitrogen,g/m³,10.4
+Waikato,Waikato Regional Council,LAWA-100398,Bore (Franklin) at Hira Bhana No2,-37.23633567,174.9478708,Nitrate nitrogen,g/m³,9.8
+Waikato,Waikato Regional Council,LAWA-101689,Bore (Franklin) at Kelly,-37.25974899,174.7622304,Nitrate nitrogen,g/m³,17.6
+Waikato,Waikato Regional Council,LAWA-101690,Bore (Franklin) at Lam DHA,-37.32658946,174.9749485,Nitrate nitrogen,g/m³,28
+Waikato,Waikato Regional Council,LAWA-101694,Bore (Franklin) at M S & Myung (ex Sutton) - Pukekohe GNS,-37.27026011,174.9368359,Nitrate nitrogen,g/m³,9.2
+Waikato,Waikato Regional Council,LAWA-101692,Bore (Franklin) at Shepherd R,-37.33559523,175.0111785,Nitrate nitrogen,g/m³,9.9
+Waikato,Waikato Regional Council,LAWA-101693,Bore (Franklin) at Smythe,-37.32841671,174.914797,Nitrate nitrogen,g/m³,1.43
+Waikato,Waikato Regional Council,LAWA-101684,Bore (Franklin) at Welch D,-37.23912308,174.9515498,Nitrate nitrogen,g/m³,14.1
+Waikato,Waikato Regional Council,LAWA-101695,Bore (Franklin) at Whitton T & K,-37.3262786,174.9633049,Nitrate nitrogen,g/m³,16.45
+Waikato,Waikato Regional Council,LAWA-101698,Bore (Hauraki) at Doran R & D,-37.39195959,175.6111493,Nitrate nitrogen,g/m³,9
+Waikato,Waikato Regional Council,LAWA-101704,Bore (Hauraki) at Lobb .S   (Browne T),-37.37265107,175.8942191,Nitrate nitrogen,g/m³,0.1
+Waikato,Waikato Regional Council,LAWA-101697,Bore (Hauraki) at MacGregor,-37.35774791,175.4009427,Nitrate nitrogen,g/m³,10.55
+Waikato,Waikato Regional Council,LAWA-101699,Bore (Hauraki) at Mains D & K  (Gray A),-37.30790464,175.4008904,Nitrate nitrogen,g/m³,0.07
+Waikato,Waikato Regional Council,LAWA-101702,Bore (Hauraki) at Morgan M,-37.40307435,175.8108791,Nitrate nitrogen,g/m³,0.26
+Waikato,Waikato Regional Council,LAWA-101700,Bore (Hauraki) at Nurseries B & B (Youle),-37.41757458,175.9021054,Nitrate nitrogen,g/m³,1.93
+Waikato,Waikato Regional Council,LAWA-101701,Bore (Hauraki) at Wakefield GK & SI  (Lawrence JA),-37.415898,175.8863152,Nitrate nitrogen,g/m³,0.19
+Waikato,Waikato Regional Council,LAWA-101707,Bore (Matamata-Piako) at Furness Bros,-37.80520004,175.75871,Nitrate nitrogen,g/m³,5.6
+Waikato,Waikato Regional Council,LAWA-101708,Bore (Matamata-Piako) at Lynch L,-37.82852526,175.7793206,Nitrate nitrogen,g/m³,5.85
+Waikato,Waikato Regional Council,LAWA-101706,Bore (Matamata-Piako) at MacLean D,-37.6930068,175.7143444,Nitrate nitrogen,g/m³,13.85
+Waikato,Waikato Regional Council,LAWA-101718,Bore (Matamata-Piako) at Matamata Aerodrome Tamihana (PZ1),-37.73414508,175.7398542,Nitrate nitrogen,g/m³,4.75
+Waikato,Waikato Regional Council,LAWA-101710,Bore (Matamata-Piako) at Mattock (ex Bell),-37.75062728,175.829341,Nitrate nitrogen,g/m³,6.5
+Waikato,Waikato Regional Council,LAWA-101711,Bore (Matamata-Piako) at Sheehan K,-37.65923051,175.7806089,Nitrate nitrogen,g/m³,0.845
+Waikato,Waikato Regional Council,LAWA-101717,Bore (Matamata-Piako) at Springdale School,-37.53268946,175.5684019,Nitrate nitrogen,g/m³,13.7
+Waikato,Waikato Regional Council,LAWA-101716,Bore (Matamata-Piako) at Tauwhare Reservoir Bore - Hauraki Graben,-37.80094841,175.7768439,Nitrate nitrogen,g/m³,3.45
+Waikato,Waikato Regional Council,LAWA-101712,Bore (Matamata-Piako) at Todd K & S,-37.74765805,175.6824445,Nitrate nitrogen,g/m³,15.2
+Waikato,Waikato Regional Council,LAWA-101709,Bore (Matamata-Piako) at Troughton M,-37.76608323,175.7876611,Nitrate nitrogen,g/m³,3.5
+Waikato,Waikato Regional Council,LAWA-101705,Bore (Matamata-Piako) at Vance R (ex Brosnan R),-37.65556542,175.6618528,Nitrate nitrogen,g/m³,21.5
+Waikato,Waikato Regional Council,LAWA-101713,Bore (Matamata-Piako) at Vowles D.R & L.D,-37.71120387,175.6129155,Nitrate nitrogen,g/m³,0.05
+Waikato,Waikato Regional Council,LAWA-101714,Bore (Matamata-Piako) at Webb DE,-37.70767616,175.7952807,Nitrate nitrogen,g/m³,23.5
+Waikato,Waikato Regional Council,LAWA-101715,Bore (Matamata-Piako) at Wilcox Piezometer,-37.87881917,175.7375467,Nitrate nitrogen,g/m³,5.9
+Waikato,Waikato Regional Council,LAWA-101719,Bore (Otorohanga) at Martin RJ   ( ex Cook),-38.15888408,175.2706322,Nitrate nitrogen,g/m³,4.1
+Waikato,Waikato Regional Council,LAWA-101721,Bore (Rotorua) at Burbery D,-38.4582513,176.3774802,Nitrate nitrogen,g/m³,0.25
+Waikato,Waikato Regional Council,LAWA-101722,Bore (Rotorua) at Reporoa Town Hall (Deep),-38.43749856,176.3409594,Nitrate nitrogen,g/m³,0.05
+Waikato,Waikato Regional Council,LAWA-101723,Bore (Rotorua) at Reporoa Town Hall (Shallow),-38.43758214,176.3408716,Nitrate nitrogen,g/m³,7.3
+Waikato,Waikato Regional Council,LAWA-101720,Bore (Rotorua) at Sandrey J (New Owners:Zoetermeer Trust),-38.32824156,176.2541713,Nitrate nitrogen,g/m³,9.85
+Waikato,Waikato Regional Council,LAWA-101724,Bore (Rotorua) at Weren # 1 (obs),-38.49091839,176.3852074,Nitrate nitrogen,g/m³,0.05
+Waikato,Waikato Regional Council,LAWA-101725,Bore (South Waikato) at Ball A - ex Davis,-37.91104085,175.7687201,Nitrate nitrogen,g/m³,14
+Waikato,Waikato Regional Council,LAWA-101727,Bore (South Waikato) at Berger B,-38.11191802,175.8403364,Nitrate nitrogen,g/m³,1.495
+Waikato,Waikato Regional Council,LAWA-101728,Bore (South Waikato) at Goodman K & L (ex Burwell),-38.15978788,175.8474203,Nitrate nitrogen,g/m³,5.15
+Waikato,Waikato Regional Council,LAWA-101726,Bore (South Waikato) at Haire J & B,-38.01110189,175.8217138,Nitrate nitrogen,g/m³,3.7
+Waikato,Waikato Regional Council,LAWA-101729,Bore (South Waikato) at Hart,-38.11129433,175.8112211,Nitrate nitrogen,g/m³,5.25
+Waikato,Waikato Regional Council,LAWA-101732,Bore (Taupo) at Great Lake Motor Camp - Production Bore,-38.69022197,176.0447557,Nitrate nitrogen,g/m³,12.6
+Waikato,Waikato Regional Council,LAWA-101734,Bore (Taupo) at Kuratau Piezometer (NGMP),-38.89140553,175.7731889,Nitrate nitrogen,g/m³,0.37
+Waikato,Waikato Regional Council,LAWA-101731,Bore (Taupo) at Law #1 GJ & KD,-38.63746012,175.8778019,Nitrate nitrogen,g/m³,4.1
+Waikato,Waikato Regional Council,LAWA-101730,Bore (Taupo) at Ramsey G,-38.64255691,175.9358688,Nitrate nitrogen,g/m³,2.6
+Waikato,Waikato Regional Council,LAWA-101739,Bore (Waikato) at Cutforth JRA,-37.69596956,175.3585691,Nitrate nitrogen,g/m³,10.55
+Waikato,Waikato Regional Council,EW-00131,Bore (Waikato) at Ferguson J,-37.76424434,175.3302701,Nitrate nitrogen,g/m³,4.95
+Waikato,Waikato Regional Council,LAWA-101742,Bore (Waikato) at MacDonald T & C (Barr),-37.56037773,175.288323,Nitrate nitrogen,g/m³,3.2
+Waikato,Waikato Regional Council,LAWA-101744,Bore (Waikato) at Martin P - Hamilton Basin,-37.80700746,175.4115042,Nitrate nitrogen,g/m³,6.6
+Waikato,Waikato Regional Council,LAWA-101751,Bore (Waipa) at Boggiss (ex Short),-37.9902933,175.2064083,Nitrate nitrogen,g/m³,2.75
+Waikato,Waikato Regional Council,LAWA-101747,Bore (Waipa) at Entwisle J & A,-37.85542121,175.5006031,Nitrate nitrogen,g/m³,3.1
+Waikato,Waikato Regional Council,LAWA-101753,Bore (Waipa) at Reid K,-37.89776254,175.2002758,Nitrate nitrogen,g/m³,3.45
+Waikato,Waikato Regional Council,LAWA-101756,Bore (Waitomo) at James S,-38.34093864,175.0884547,Nitrate nitrogen,g/m³,2.7
+Waikato,Waikato Regional Council,LAWA-101754,Bore (Waitomo) at McPhee B.D,-38.2826921,175.3258825,Nitrate nitrogen,g/m³,6.15
+Waikato,Waikato Regional Council,LAWA-101755,Bore (Waitomo) at Roselands Restaurant,-38.284173,175.0983389,Nitrate nitrogen,g/m³,0.31
+Waikato,Waikato Regional Council,LAWA-101757,Bore (Waitomo) at Symonds,-38.31588393,175.1455739,Nitrate nitrogen,g/m³,0.05
+Waikato,Waikato Regional Council,LAWA-101758,Bores (Waikato Region) at Hayman Phil & Julia (Rowlands),-38.62594746,175.9688987,Nitrate nitrogen,g/m³,1.825
+Waikato,Waikato Regional Council,LAWA-101769,Bores (Waikato Region) at Holland DC & FK,-37.37536839,175.8647977,Nitrate nitrogen,g/m³,0.44
+Waikato,Waikato Regional Council,LAWA-101765,Bores (Waikato Region) at Kuratau Hall Monitoring Piezometer,-38.88169454,175.675908,Nitrate nitrogen,g/m³,0.32
+Waikato,Waikato Regional Council,LAWA-101760,Bores (Waikato Region) at L&S Otutira - Station #2 (WT492),-38.64416579,175.7888546,Nitrate nitrogen,g/m³,1.66
+Waikato,Waikato Regional Council,LAWA-101771,Bores (Waikato Region) at Lovegrove,-36.72411348,175.7230037,Nitrate nitrogen,g/m³,0.61
+Waikato,Waikato Regional Council,LAWA-101772,Bores (Waikato Region) at Moss G & S,-38.2475035,175.8465231,Nitrate nitrogen,g/m³,4
+Waikato,Waikato Regional Council,LAWA-101770,Bores (Waikato Region) at O'Sullivan D.J (1.Tank),-37.83673917,175.7771863,Nitrate nitrogen,g/m³,7.3
+Waikato,Waikato Regional Council,LAWA-101768,Bores (Waikato Region) at Otaipuhe Station L & S (Manager's House),-38.67486128,175.689286,Nitrate nitrogen,g/m³,3.8
+Waikato,Waikato Regional Council,LAWA-101763,Bores (Waikato Region) at Otaipuhe Station Manager's Piezometer,-38.67475325,175.689282,Nitrate nitrogen,g/m³,0.725
+Waikato,Waikato Regional Council,LAWA-101759,Bores (Waikato Region) at Passmore RG #2 (WT508),-38.63547842,175.8814442,Nitrate nitrogen,g/m³,2.74
+Waikato,Waikato Regional Council,LAWA-101764,Bores (Waikato Region) at Rangiatea Station - Corner K'Road (Deep),-38.83005125,175.6978723,Nitrate nitrogen,g/m³,0.05
+Waikato,Waikato Regional Council,LAWA-101767,Bores (Waikato Region) at Rangiatea Station - Corner K'Road (Shal),-38.83003724,175.697699,Nitrate nitrogen,g/m³,1.375
+Waikato,Waikato Regional Council,EW-00132,Bores (Waikato Region) at Waihora #6 (WT485) new - piezometer,-38.61148401,175.7863822,Nitrate nitrogen,g/m³,0.93
+Waikato,Waikato Regional Council,LAWA-101766,Bores (Waikato Region) at Waituhi Station - Cnr Kuratau Hydro Rd,-38.863724,175.6836114,Nitrate nitrogen,g/m³,1.5
+Waikato,Waikato Regional Council,LAWA-101762,Bores (Waikato Region) at Whakaipo Bay West,-38.68332232,175.9587876,Nitrate nitrogen,g/m³,2.6
+Wellington,Greater Wellington,LAWA-102874,BN32/0062,-40.74284523,175.1195673,Nitrate nitrogen,g/m³,1.2641714
+Wellington,Greater Wellington,LAWA-102873,BN32/0063,-40.74284523,175.1195673,Nitrate nitrogen,g/m³,0.5789381
+Wellington,Greater Wellington,LAWA-102872,BN33/0032,-40.7255515,175.1737317,Nitrate nitrogen,g/m³,4.442094
+Wellington,Greater Wellington,LAWA-102871,BP32/0103,-41.11198815,174.8816334,Nitrate nitrogen,g/m³,0.001657
+Wellington,Greater Wellington,LAWA-103625,BP33/0056,-41.1432274,175.4184188,Nitrate nitrogen,g/m³,0.001
+Wellington,Greater Wellington,LAWA-103626,BP33/0057,-41.13770263,175.3507478,Nitrate nitrogen,g/m³,1.853326
+Wellington,Greater Wellington,LAWA-102858,BP34/0216,-41.03488033,175.5044931,Nitrate nitrogen,g/m³,4.7052392
+Wellington,Greater Wellington,LAWA-103624,BP34/0229,-40.89619511,175.669955,Nitrate nitrogen,g/m³,2.57778095
+Wellington,Greater Wellington,LAWA-103627,BP34/0236,-41.10549928,175.4426472,Nitrate nitrogen,g/m³,1.2231701
+Wellington,Greater Wellington,LAWA-102870,BQ31/0047,-41.32152848,174.7712542,Nitrate nitrogen,g/m³,0.8579961
+Wellington,Greater Wellington,LAWA-101073,BQ33/0032,-41.33353402,175.2320684,Nitrate nitrogen,g/m³,0.001
+Wellington,Greater Wellington,LAWA-101091,R25/5100,-40.81740622,175.0697235,Nitrate nitrogen,g/m³,0.001
+Wellington,Greater Wellington,GW-00249,R25/5135,-40.79812235,175.1236485,Nitrate nitrogen,g/m³,0.001
+Wellington,Greater Wellington,LAWA-101090,R25/5165,-40.79517171,175.0864203,Nitrate nitrogen,g/m³,0.5928963
+Wellington,Greater Wellington,LAWA-101093,R25/5190,-40.8211195,175.0950475,Nitrate nitrogen,g/m³,2.8050208
+Wellington,Greater Wellington,LAWA-101087,R25/5233,-40.74506276,175.1302378,Nitrate nitrogen,g/m³,1.546523
+Wellington,Greater Wellington,GW-00170,R26/6503,-40.9735855,174.9759687,Nitrate nitrogen,g/m³,0.00513065
+Wellington,Greater Wellington,LAWA-101094,R26/6587,-40.87537523,175.0487678,Nitrate nitrogen,g/m³,0.64312545
+Wellington,Greater Wellington,LAWA-101092,R26/6624,-40.86393722,175.0638277,Nitrate nitrogen,g/m³,2.5171315
+Wellington,Greater Wellington,GW-00107,R27/0320,-41.22559249,174.8731004,Nitrate nitrogen,g/m³,0.001
+Wellington,Greater Wellington,LAWA-101100,R27/1137,-41.12818836,175.0658114,Nitrate nitrogen,g/m³,1.4033494
+Wellington,Greater Wellington,GW-00191,R27/1171,-41.255229,174.8679434,Nitrate nitrogen,g/m³,0.001
+Wellington,Greater Wellington,LAWA-101096,R27/1180,-41.2142043,174.9138085,Nitrate nitrogen,g/m³,0.8051405
+Wellington,Greater Wellington,LAWA-101095,R27/1182,-41.24627708,174.900877,Nitrate nitrogen,g/m³,0.6548706
+Wellington,Greater Wellington,LAWA-101099,R27/1183,-41.18672996,174.9445806,Nitrate nitrogen,g/m³,0.2624336
+Wellington,Greater Wellington,GW-00108,R27/1265,-41.22552008,174.8731222,Nitrate nitrogen,g/m³,0.0851622
+Wellington,Greater Wellington,LAWA-101097,R27/6418,-41.30390292,174.9377148,Nitrate nitrogen,g/m³,1.4803934
+Wellington,Greater Wellington,LAWA-101098,R27/6833,-41.12394372,175.1170175,Nitrate nitrogen,g/m³,0.6965286
+Wellington,Greater Wellington,LAWA-101088,S25/5125,-40.78356001,175.1656328,Nitrate nitrogen,g/m³,4.0248003
+Wellington,Greater Wellington,GW-00073,S25/5200,-40.8129628,175.148189,Nitrate nitrogen,g/m³,0.0029942
+Wellington,Greater Wellington,GW-00166,S25/5256,-40.7827864,175.1390274,Nitrate nitrogen,g/m³,7.1247475
+Wellington,Greater Wellington,GW-00086,S25/5322,-40.74417022,175.1675162,Nitrate nitrogen,g/m³,8.4534168
+Wellington,Greater Wellington,LAWA-101056,S26/0117,-41.0127557,175.5149867,Nitrate nitrogen,g/m³,3.70984054
+Wellington,Greater Wellington,GW-00151,S26/0223,-40.98899389,175.570141,Nitrate nitrogen,g/m³,9.1865676
+Wellington,Greater Wellington,LAWA-101052,S26/0299,-40.96513935,175.5948331,Nitrate nitrogen,g/m³,3.0595335
+Wellington,Greater Wellington,LAWA-101058,S26/0439,-41.02818095,175.4681054,Nitrate nitrogen,g/m³,2.99630775
+Wellington,Greater Wellington,LAWA-101063,S26/0457,-41.07177879,175.4716999,Nitrate nitrogen,g/m³,0.6003716
+Wellington,Greater Wellington,LAWA-101057,S26/0467,-41.03970584,175.4896396,Nitrate nitrogen,g/m³,2.27976
+Wellington,Greater Wellington,GW-00077,S26/0568,-41.0559611,175.5404779,Nitrate nitrogen,g/m³,0.0054817
+Wellington,Greater Wellington,LAWA-101054,S26/0576,-41.05045109,175.5399683,Nitrate nitrogen,g/m³,0.01
+Wellington,Greater Wellington,LAWA-101076,S26/0705,-41.03552529,175.5038276,Nitrate nitrogen,g/m³,3.9621131
+Wellington,Greater Wellington,LAWA-101055,S26/0762,-41.07853182,175.5677122,Nitrate nitrogen,g/m³,0.0016015
+Wellington,Greater Wellington,GW-00251,S27/0009,-41.13682132,175.3101858,Nitrate nitrogen,g/m³,3.78770661
+Wellington,Greater Wellington,LAWA-101062,S27/0070,-41.13928939,175.3533183,Nitrate nitrogen,g/m³,0.3598711
+Wellington,Greater Wellington,LAWA-101061,S27/0136,-41.10862763,175.4083,Nitrate nitrogen,g/m³,3.509557
+Wellington,Greater Wellington,LAWA-101060,S27/0156,-41.1408485,175.4236094,Nitrate nitrogen,g/m³,0.0165716
+Wellington,Greater Wellington,GW-00076,S27/0202,-41.10663484,175.4468572,Nitrate nitrogen,g/m³,1.9365973
+Wellington,Greater Wellington,LAWA-101068,S27/0268,-41.22177586,175.3079018,Nitrate nitrogen,g/m³,0.0041103
+Wellington,Greater Wellington,LAWA-101067,S27/0283,-41.20183537,175.352792,Nitrate nitrogen,g/m³,0.01
+Wellington,Greater Wellington,LAWA-101080,S27/0299,-41.17710997,175.3427036,Nitrate nitrogen,g/m³,0.4751153
+Wellington,Greater Wellington,LAWA-101077,S27/0344,-41.18978576,175.4247585,Nitrate nitrogen,g/m³,0.001
+Wellington,Greater Wellington,LAWA-101066,S27/0389,-41.22073889,175.4719115,Nitrate nitrogen,g/m³,0.001
+Wellington,Greater Wellington,LAWA-101064,S27/0396,-41.20155319,175.4551376,Nitrate nitrogen,g/m³,0.7283623
+Wellington,Greater Wellington,LAWA-101071,S27/0433,-41.27908239,175.2411361,Nitrate nitrogen,g/m³,0.001
+Wellington,Greater Wellington,LAWA-101070,S27/0435,-41.25240515,175.2392211,Nitrate nitrogen,g/m³,0.0023078
+Wellington,Greater Wellington,GW-00180,S27/0442,-41.28721807,175.2676732,Nitrate nitrogen,g/m³,0.001
+Wellington,Greater Wellington,LAWA-101069,S27/0495,-41.24539065,175.3537698,Nitrate nitrogen,g/m³,0.007298
+Wellington,Greater Wellington,GW-00082,S27/0522,-41.24400801,175.422992,Nitrate nitrogen,g/m³,3.2819245
+Wellington,Greater Wellington,GW-00129,S27/0571,-41.22775252,175.4716151,Nitrate nitrogen,g/m³,4.274783
+Wellington,Greater Wellington,LAWA-101059,S27/0585,-41.32793824,175.1547247,Nitrate nitrogen,g/m³,0.001
+Wellington,Greater Wellington,LAWA-101079,S27/0588,-41.34387168,175.2093191,Nitrate nitrogen,g/m³,0.001
+Wellington,Greater Wellington,GW-00243,S27/0594,-41.35360359,175.1678952,Nitrate nitrogen,g/m³,0.0055
+Wellington,Greater Wellington,LAWA-101072,S27/0602,-41.30146549,175.2650019,Nitrate nitrogen,g/m³,0.001
+Wellington,Greater Wellington,LAWA-101078,S27/0607,-41.30462795,175.225253,Nitrate nitrogen,g/m³,0.01
+Wellington,Greater Wellington,LAWA-101074,S27/0615,-41.33042223,175.2322967,Nitrate nitrogen,g/m³,0.001
+Wellington,Greater Wellington,LAWA-101065,S27/0681,-41.22253959,175.4928195,Nitrate nitrogen,g/m³,0.490719
+Wellington,Greater Wellington,GW-00123,T26/0003,-40.86172445,175.6406657,Nitrate nitrogen,g/m³,1.7512496
+Wellington,Greater Wellington,LAWA-101051,T26/0087,-40.93870125,175.616852,Nitrate nitrogen,g/m³,1.3702532
+Wellington,Greater Wellington,LAWA-101050,T26/0099,-40.91228198,175.6421909,Nitrate nitrogen,g/m³,2.8821714
+Wellington,Greater Wellington,LAWA-101049,T26/0206,-40.91037483,175.6428747,Nitrate nitrogen,g/m³,2.07305125
+Wellington,Greater Wellington,LAWA-101048,T26/0259,-40.89782171,175.6829115,Nitrate nitrogen,g/m³,1.18327225
+Wellington,Greater Wellington,LAWA-101083,T26/0332,-41.00429989,175.642453,Nitrate nitrogen,g/m³,0.8603924
+Wellington,Greater Wellington,LAWA-101053,T26/0413,-40.98049328,175.6683028,Nitrate nitrogen,g/m³,0.001
+Wellington,Greater Wellington,LAWA-101085,T26/0430,-40.95370051,175.639245,Nitrate nitrogen,g/m³,1.81279865
+Wellington,Greater Wellington,LAWA-101081,T26/0489,-40.96276707,175.7042556,Nitrate nitrogen,g/m³,8.8049326
+Wellington,Greater Wellington,LAWA-101084,T26/0538,-40.96888458,175.7064781,Nitrate nitrogen,g/m³,8.98174455
+Wellington,Greater Wellington,LAWA-101086,T27/0063,-41.09066005,176.0720285,Nitrate nitrogen,g/m³,0.594662
